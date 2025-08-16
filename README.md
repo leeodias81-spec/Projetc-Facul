@@ -1,8 +1,8 @@
 # Projetc-Facul
 Projeto realizado para desenvolver meu aprendizado, onde estou cursando ADS.
 
-Tecnologias
--[] React
--[] JavaScript (ES6+)
--[] HTML5
--[] CSS3
+Tecnologia
+React
+JavaScript (ES6+)
+HTML5
+CSS3
